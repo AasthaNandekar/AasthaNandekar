@@ -54,10 +54,8 @@ Building strong foundations in Data Structures, JAVA, and Modern Web Development
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aasthanandekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=aasthanandekar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
----
 
 
 

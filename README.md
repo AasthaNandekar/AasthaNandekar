@@ -48,7 +48,7 @@ Building strong foundations in Data Structures, JAVA, and Modern Web Development
 ---
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Aastha_Nandekar_Resume.pdf)
+[![Resume](https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](.Aastha_Nandekar_Resume.pdf)
 
 ---
 

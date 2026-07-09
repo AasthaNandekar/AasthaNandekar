@@ -50,17 +50,16 @@ Building strong foundations in Data Structures, JAVA, and Modern Web Development
 
 [![Resume](https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Aastha_Nandekar_Resume.pdf)
 
+
 ---
-
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aasthanandekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=aasthanandekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=aasthanandekar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aasthanandekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aasthanandekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+
 
 
 

@@ -5,7 +5,7 @@ Computer Technology (2024–2028)<br><br>
 CS Undergraduate | Full Stack Web Developer<br><br>
 Building strong foundations in Data Structures, JAVA, and Modern Web Development.
 
----
+----
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eraasthanandekar@gmail.com)

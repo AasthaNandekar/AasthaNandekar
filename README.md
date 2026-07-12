@@ -61,6 +61,14 @@ Building strong foundations in Data Structures, JAVA, and Modern Web Development
 </p>
 
 ---
+# 📊 GitHub Analytics
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aasthanandekar&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aasthanandekar&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasthanandekar&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
 # 🎯 Current Focus
 ```yaml
 Learning:

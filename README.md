@@ -73,9 +73,6 @@ Learning:
 Building:
   - Personal Portfolio
   - React Applications
-Exploring:
-  - Linux
-  - Docker
 Open_To:
   - Internships
   - Open Source

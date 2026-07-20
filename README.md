@@ -50,14 +50,15 @@ Building strong foundations in Data Structures, JAVA, and Modern Web Development
 
 [![Resume](https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Aastha_Nandekar_Resume.pdf)
 
+
 ---
 # 📊 GitHub Analytics
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aasthanandekar&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&t=1" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aasthanandekar&theme=tokyonight&hide_border=true&cache_seconds=1800&t=1" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aasthanandekar&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&t=3" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aasthanandekar&theme=tokyonight&hide_border=true&cache_seconds=1800&t=3" />
 </p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasthanandekar&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&t=1" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasthanandekar&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&t=3" />
 </p>
 
 ---

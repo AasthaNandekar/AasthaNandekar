@@ -38,7 +38,6 @@ Building strong foundations in Data Structures, JAVA, and Modern Web Development
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
 ### Core Computer Science:
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00C853?style=flat-square)
 ![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-7B1FA2?style=flat-square)

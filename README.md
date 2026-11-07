@@ -51,14 +51,22 @@ Building strong foundations in Data Structures, JAVA, and Modern Web Development
 
 
 ---
-# 📊 GitHub Analytics
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aasthanandekar&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&t=3" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aasthanandekar&theme=tokyonight&hide_border=true&cache_seconds=1800&t=3" />
-</p>
-<p align="center">
 
----
+## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.shion.dev/api?username=aasthanandekar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&cache_seconds=1800&t=3" />
+  <img height="170"
+       src="https://streak-stats.demolab.com/?user=aasthanandekar&theme=tokyonight&hide_border=true&cache_seconds=1800&t=3" />
+</p>
+
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.shion.dev/api/top-langs/?username=aasthanandekar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800&t=3" />
+</p>
+
 
 
 

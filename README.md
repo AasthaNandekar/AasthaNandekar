@@ -62,7 +62,7 @@ Building strong foundations in Data Structures, JAVA, and Modern Web Development
 
 
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 ```yaml
 Learning:
   - Advanced C++

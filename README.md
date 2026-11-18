@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 Aastha Nitin Nandekar<br>
 Priyadarshini College of Engineering, Nagpur<br>
 Computer Technology (2024–2028)<br><br>

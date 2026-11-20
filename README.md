@@ -45,12 +45,10 @@ Building strong foundations in Data Structures, JAVA, and Modern Web Development
 ![Database Management Systems](https://img.shields.io/badge/DBMS-00897B?style=flat-square)
 
 ---
-## 📄 Resume
+## 📄 Resume &  Portfolio
 
 [![Resume](https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Aastha_Nandekar_Resume.pdf)
-
-## 📄 Portfolio
-[![Portfolio](https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://aastha-portfolio-b13.app.orvisai.com)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://aastha-portfolio-b13.app.orvisai.com)
 ---
 
 ## 📊 GitHub Analytics

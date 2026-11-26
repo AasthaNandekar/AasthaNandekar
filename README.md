@@ -52,7 +52,6 @@ Building strong foundations in Data Structures, JAVA, and Modern Web Development
 ---
 
 ## 📊 GitHub Analytics
-<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img height="170"
